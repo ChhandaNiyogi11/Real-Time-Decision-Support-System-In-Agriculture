@@ -42,8 +42,4 @@ This project focuses on developing a **Real-Time Decision Support System** to en
 - **AI Integration**: Enhance decision-making models using advanced AI techniques.
 - **Mobile App**: Develop a mobile app for easier access to alerts and dashboards.
 
-## Contribution
-Contributions are welcome! Feel free to fork this repository and submit pull requests.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
