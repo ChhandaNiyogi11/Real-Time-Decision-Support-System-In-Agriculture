@@ -16,12 +16,12 @@ This project focuses on developing a **Real-Time Decision Support System** to en
 ## Installation and Setup
 1. **Hardware Setup**:
    - Assemble the IoT sensor network for soil moisture, temperature, and humidity.
-   - Connect sensors to a microcontroller and configure communication modules (e.g., Wi-Fi or LoRa).
+   - Connect sensors to a microcontroller and configure communication modules (e.g., Wi-Fi ).
 
 2. **Software Requirements**:
-   - Install Python and required libraries for machine learning and data processing.
    - Set up Arduino IDE for programming the microcontroller.
    - Configure ThingSpeak for cloud data storage and visualization.
+   - Use MS-excel or MATLAB for data analysis.
 
 3. **Running the System**:
    - Deploy the IoT sensors in the field and power the hardware.
